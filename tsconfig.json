@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "experimentalDecorators": true,
+        "allowJs": false,
+        "strict": true
+	},
+	"ts-node": {
+		"esm": true,
+        "experimentalSpecifierResolution": "node"
+	}
+}
