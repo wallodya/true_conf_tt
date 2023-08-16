@@ -1,0 +1,19 @@
+{
+  "name": "true-conf-lib",
+  "version": "1.0.0",
+  "description": "Test task for TrueConf: library for managing basic geometric shapes ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallodya/true_conf_tt.git"
+  },
+  "author": "Vladimir Vihlyaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallodya/true_conf_tt/issues"
+  },
+  "homepage": "https://github.com/wallodya/true_conf_tt#readme"
+}
