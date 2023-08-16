@@ -1,6 +1,6 @@
 import Shape from "./abstract-shape";
 
-class Rectangle extends Shape {
+class Reactangle extends Shape {
     get area(): number {
         throw new Error("Method not implemented.");
     }
@@ -9,4 +9,4 @@ class Rectangle extends Shape {
     }
 }
 
-export default Rectangle
+export default Reactangle
